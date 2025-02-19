@@ -37,7 +37,7 @@ ________________________________________________________
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Chetan941/potato-leaf-disease-detection.git
+git clone https://github.com/Shailesh8669/Potato-Leaf-Disease-Detection
 
 cd potato-leaf-disease-detection
 
